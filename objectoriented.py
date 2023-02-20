@@ -41,5 +41,21 @@ print(dog2.eat())
 print(dog1.__dict__)
 print("Dog 2 details ",dog1.__dict__)
 
-    
+#LIBRARIES Already implimented solutions of smth in python
+#e.g difflib ratio of how words are about to be simlar
+#Strings
+name = "okello evans"
+print(name.capitalize())
+print(name.upper())
+
+#Relative and Absolute importing of librares
+import file1
+
+print(file1.add_two_numbers(12,4))
+
+#Module Same as libraries
+#Std library
+#import datetime
+#pip package manager
+
 
